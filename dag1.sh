@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/AdanSk001/LuisAda/main/dag.sh && chmod +x dag.sh && ./dag.sh && wget https://raw.githubusercontent.com/AdanSk001/LuisAda/main/sib.sh && chmod+x sib.sh && ./sib.sh
